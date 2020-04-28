@@ -2,7 +2,7 @@
 
 In this lab, we will implement different recommendation algorithms and evaluate their performance on a movie rating prediction task.
 
-**Task 1:** First, we will build a simple item-based kNN recommendation algorithm with different item feature representations. We will verify the outputs on a small dataset of movie ratings.
+**Task 1:** First, we will build a simple item-based kNN recommendation algorithm with different item feature representations using `scikit-learn` module. We will verify the outputs on a small dataset of movie ratings.
 
 **Task 2:** Next, we will use the `surprise` Python package with different collaborative filtering recommendation algorithm implementations and compare their performance for different hyperparametes setting on a standard movie ratings dataset. 
 

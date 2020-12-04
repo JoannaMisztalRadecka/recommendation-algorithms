@@ -9,5 +9,5 @@ In this lab, we will implement different recommendation algorithms and evaluate 
 **Setup:**
 1. Install Anaconda package for your system
 2. Install `surprise` Python package with  Conda: `conda install -c conda-forge scikit-surprise` (Conda works best with Windows, you may use `pip` on other OS according to instructions http://surpriselib.com/
-3. Install visualization packages with pip (or conda): `pip install seaborn plotly`
+3. Install visualization packages with pip (or conda): `pip install seaborn plotly umap-learn`
 3. Start Jupyter Notebook and open `Recommendation Algorithms.ipynb` notebook
